@@ -552,7 +552,7 @@ function startGame () {
     };
 
     function procesar(pregunta, respuesta) {
-        /* console.log("el personaje aleatorio es: " + randomPerson.img);
+     /* console.log("el personaje aleatorio es: " + randomPerson.img);
         console.log("la pregunta es: " + pregunta + " y la respuesta es: " + respuesta);
         console.log("el valor de pregunta en la randomPerson es: " + randomPerson[pregunta]); */
     

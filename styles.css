@@ -50,13 +50,25 @@ body {
     display: flex;
     justify-content: center;
 }
+
 .startGame {
     background-color: #FE4F60;
     color: #FFFFFF;;
     padding: 15px 25px;
-    width: 20%;
+    width: 45%;
     border-radius: 20px;
     font-size: 15px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
 }
+@media (min-width: 1024px) {
+    .startGame {
+        background-color: #FE4F60;
+        color: #FFFFFF;;
+        padding: 15px 25px;
+        width: 20%;
+        border-radius: 20px;
+        font-size: 15px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+} 
